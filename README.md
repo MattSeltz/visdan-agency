@@ -14,3 +14,6 @@ Visdán Agency es una página web para una agencia digital especializada en mark
 
 - **Frontend:** React, Tailwind CSS, Next.js
 - **Backend:** Node.js, Express.js
+
+## 🌟 Capturas
+![Captura 1](/home.PNG)
